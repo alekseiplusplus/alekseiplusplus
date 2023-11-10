@@ -2,14 +2,17 @@
 
 ### About Me
 
-My name is Aleksei Eaves, I am a programmer from Melbourne, Australia. I am currently in my first year of my Bachelors of Computer Science at RMIT University.
+My name is Aleksei Eaves, I am a programmer from Melbourne, Australia. As of 2024, I am in my second year at RMIT University studying a Bach. of Engineering (Computer and Network Engineering) (Honours) / Bach. of Computer Science.
 
-Currently my interest at the moment is mostly in low-level software — particularly operating systems — and networking.
-I mostly program in C, though I'm also familiar with C++, Bash, and Java.
+I mostly write programs in C / C++, and assembly languages. I am also familiar with Bash, PHP, and Common Lisp.
 
-### Current Project
+The domains which I am interested in are networking protocols and architecture, embedded systems, and operating systems.
 
-My current project is [apple-c](https://github.com/alekseiplusplus/apple-c), an emulator of the Apple I computer written in C. It is a work in progress; I currently have most of the CPU worked out. It has been on hiatus as I have had to focus on university, but I am eager to return to it.
+### Current Projects
+
+My primary project at the moment is lisp-x86-64. It is a challenge I have given to myself after learning x86 to write an interpreter for a Lisp-like language, as a way to solidify my learning through an intermediate project. It is unlikely you will find it useful even when it is finished.
+
+My secondary project on Github is apple-c, which I am making slow progress on. I wanted to build a cross-platform emulator of the Apple I computer, which along with various provided documentation, can serve as an educational resource for anybody interested in retro personal computers.
 
 ### Contact
 
